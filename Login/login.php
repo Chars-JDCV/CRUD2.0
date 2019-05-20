@@ -14,7 +14,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<title>SIRIDS | Login</title>
-	<link rel="stylesheet" href="assets/css/login.css">
+	<link rel="stylesheet" href="../assets/css/login.css">
 </head>
 <body>
 <div class="slider">
@@ -50,12 +50,12 @@
 			</p>
         </div>  
 	</form>
-	<script src="assets/js/jquery-3.1.1.min.js"></script>
-	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="../assets/js/jquery-3.1.1.min.js"></script>
+	<script src="../assets/js/bootstrap.min.js"></script>
 	<!-- js jquery-validation  verificar porque no me deja validar y hacer el submit al mismo tiempo-->
-	<script src="assets/plugin/jquery-validation/js/jquery.validate.min.js?v=3"></script>
-	<script src="assets/plugin/jquery-validation/js/additional-methods.min.js?v=15"></script>
-	<script src="assets/plugin/jquery-validation/js/localization/messages_es.min.js" type="text/javascript"></script>
+	<script src="../assets/plugin/jquery-validation/js/jquery.validate.min.js?v=3"></script>
+	<script src="../assets/plugin/jquery-validation/js/additional-methods.min.js?v=15"></script>
+	<script src="../assets/plugin/jquery-validation/js/localization/messages_es.min.js" type="text/javascript"></script>
 	<!-- end js jquery-validation -->
 	<script src="main.js?v=6"></script>
 </body>
