@@ -1,5 +1,5 @@
 <?php
-require_once  getcwd() . '/config/ConnectionManager.php';
+require_once  getcwd() . '/../config/ConnectionManager.php';
 
 class Manager extends ConnectionManager
 {
