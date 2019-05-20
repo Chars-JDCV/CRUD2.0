@@ -1,0 +1,9 @@
+@import url('normalize.css');
+@import url('bootstrap.min.css');
+.body-template {
+    background-image: url(../img/bg/2.jpg);
+    margin: 0;
+    width: auto;
+    height: auto;
+    position: relative;
+}
