@@ -14,7 +14,6 @@ if(isset($_POST["action"]))
         ($retval["data"]==1) ? header('Location: ../index.php') : header('Location: login.php?error=true') ;
         break;
         default:
-
         break;
     }
 }
